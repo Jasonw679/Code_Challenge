@@ -1,0 +1,16 @@
+/home/jasonw/revature/Code_Challenge/obj/Debug/net5.0/Code_Challenge.csprojAssemblyReference.cache
+/home/jasonw/revature/Code_Challenge/obj/Debug/net5.0/Code_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/jasonw/revature/Code_Challenge/obj/Debug/net5.0/Code_Challenge.AssemblyInfoInputs.cache
+/home/jasonw/revature/Code_Challenge/obj/Debug/net5.0/Code_Challenge.AssemblyInfo.cs
+/home/jasonw/revature/Code_Challenge/obj/Debug/net5.0/Code_Challenge.csproj.CoreCompileInputs.cache
+/home/jasonw/revature/Code_Challenge/bin/Debug/net5.0/Code_Challenge
+/home/jasonw/revature/Code_Challenge/bin/Debug/net5.0/Code_Challenge.deps.json
+/home/jasonw/revature/Code_Challenge/bin/Debug/net5.0/Code_Challenge.runtimeconfig.json
+/home/jasonw/revature/Code_Challenge/bin/Debug/net5.0/Code_Challenge.runtimeconfig.dev.json
+/home/jasonw/revature/Code_Challenge/bin/Debug/net5.0/Code_Challenge.dll
+/home/jasonw/revature/Code_Challenge/bin/Debug/net5.0/ref/Code_Challenge.dll
+/home/jasonw/revature/Code_Challenge/bin/Debug/net5.0/Code_Challenge.pdb
+/home/jasonw/revature/Code_Challenge/obj/Debug/net5.0/Code_Challenge.dll
+/home/jasonw/revature/Code_Challenge/obj/Debug/net5.0/ref/Code_Challenge.dll
+/home/jasonw/revature/Code_Challenge/obj/Debug/net5.0/Code_Challenge.pdb
+/home/jasonw/revature/Code_Challenge/obj/Debug/net5.0/Code_Challenge.genruntimeconfig.cache
