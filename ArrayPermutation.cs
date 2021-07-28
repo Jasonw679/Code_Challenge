@@ -44,9 +44,10 @@ public class ArrayPermutation
     arr[l] = arr[r];
     arr[r] = temp;
   }
-  static void Main(string[] args)
+  /*static void Main(string[] args)
   {
     int[] a = { 10, 20, 30, 40 };
     PrintPermutation(a);
   }
+  */
 }
